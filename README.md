@@ -11,7 +11,6 @@ I enjoy solving real-world problems through code and love working on both the fr
 
 - 🎓 B.E. Computer Systems Engineering — DUET (2021–2025)  
 - 🧠 Constantly exploring new tools & backend architectures  
-- 🌱 Currently learning PostgreSQL and advanced authentication  
 - 💬 Ask me about: React, Node.js, Express, MongoDB, WebSockets  
 - 🤝 Open to collaborating on MERN stack & real-time projects  
 
